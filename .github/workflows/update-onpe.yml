@@ -1,4 +1,4 @@
-/name: Actualizar datos ONPE
+name: Actualizar datos ONPE
 
 on:
   schedule:
